@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.hover-effect{
+    text-align: center;
+}
+
+.hover-effect ul li{
+    display: inline-block;
+}
+
+.hover-effect ul li a{
+    font-size: 50px;
+    color: #fff;
+    margin: 0px 10px;
+    line-height: 100px;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    transition: 0.3s all;
+}
+
+.facebook{
+    background-color: #0d47a1;
+}
+
+.hover-effect ul li:hover .facebook{
+    box-shadow: 0px 0px 20px 0px #0d47a1;
+    transform: scale(1.3);
+}
+
+.twitter{
+    background-color: #33D1FF;
+}
+
+.hover-effect ul li:hover .twitter{
+    box-shadow: 0px 0px 20px 0px #33D1FF;
+    transform: scale(1.3);
+}
+
+.youtube{
+    background-color: #FF3333;
+}
+
+.hover-effect ul li:hover .youtube{
+    box-shadow: 0px 0px 20px 0px #FF3333;
+    transform: scale(1.3);
+}
+
+.github{
+    background-color: #000000;
+}
+
+.hover-effect ul li:hover .github{
+    box-shadow: 0px 0px 20px 0px #000000;
+    transform: scale(1.3);
+}
