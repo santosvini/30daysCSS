@@ -1,1 +1,2 @@
-# 30daysCSS challenge about use HTML5 and CSS3 fos practices habilities
+# 30daysCSS challenge about use HTML5 and CSS3 for practices habilities
+
