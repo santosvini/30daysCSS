@@ -12,7 +12,7 @@ section{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: linear-gradient(-30deg, #03a9f4, #3a78b7 50%, #262626 50%, #607d8b 100%);
+    background: linear-gradient(-60deg, #03a9f4, #3a78b7 50%, #262626 50%, #607d8b 100%);
     filter: hue-rotate(120deg);
     animation: animate 10s linear infinite;
 }
