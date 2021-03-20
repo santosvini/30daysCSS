@@ -9,8 +9,8 @@
 
 html,body{
     display: grid;
-    height: 200%;
-    width: 100%;
+    height: 85%;
+    width: 85%;
     place-items: center;
     background: linear-gradient(315deg, #ffffff 0%, #d7e1ec 74%);
 }
